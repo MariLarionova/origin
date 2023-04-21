@@ -24,7 +24,7 @@ Additionally measure _AUC-ROC_, compare its value with _F1_-measure.
 - _IsActiveMember —_ client activity
 - EstimatedSalary —_ estimated salary
 ## Target feature
--   _Exited_ — факт ухода клиента 
+-   _Exited_ — the fact that the client has left
 
 # Conclusions based on the results of the analysis
 
